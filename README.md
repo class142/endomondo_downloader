@@ -6,7 +6,7 @@ Download all endomondo workouts using JavaScript.
   
 2. Open the developer console of your browser (Ctrl + Shift + I) or by browsing the browser menu.
 
-3. Just paste the code and hit Enter
+3. Just paste the code from endomondo_downloader.js and hit Enter
 
 4. Wait for the program to load your workouts and do NOT TOUCH your mouse or keyboard for the app simulates clicks by using JQuery
 
